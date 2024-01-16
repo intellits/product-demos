@@ -19,7 +19,7 @@ This category of demos shows examples of multi-cloud provisioning and management
 
 ### Jobs
 
-- [**Cloud / Create Infra**](create_infra.yml) - Creates a VPC with required routing and firewall rules for provisioning VMs
+- [**Cloud / Create VPC**](create_vpc.yml) - Creates a VPC with required routing and firewall rules for provisioning VMs
 - [**Cloud / Create Keypair**](aws_key.yml) - Creates a keypair for connecting to EC2 instances
 - [**Cloud / Create VM**](create_vm.yml) - Create a VM based on a [blueprint](blueprints/) in the selected cloud provider
 - [**Cloud / Destroy VM**](destroy_vm.yml) - Destroy a VM that has been created in a cloud provider. VM must be imported into dynamic inventory to be deleted.
